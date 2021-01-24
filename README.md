@@ -1,4 +1,4 @@
-### :leaf: : https://linktr.ee/ceiv
+### 🌱 : https://linktr.ee/ceiv
 ### About
 
 -  **Learning :** Js, C++ :zap: | Open-Source :fire:	
