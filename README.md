@@ -1,7 +1,7 @@
 ### 🌱 : https://linktr.ee/ceiv
 ### About
 
--  **Learning :** Js, C++ :zap: | Open-Source :fire:	
+-  **Learning :** Apex, C++ :zap: | Open-Source :fire:	
 -  **Languages :** Python, C;
 -  **Hobbies :** Graphic Design, Calisthenics & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
